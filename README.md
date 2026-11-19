@@ -1,6 +1,9 @@
-# vfox-mole
+> Archived: Use the official [mole](https://mise-versions.jdx.dev/tools/mole)
+> from [mise-versions](https://mise-versions.jdx.dev) instead.
 
-mise and vfox plugin for [Mole](https://github.com/tw93/Mole).
+# mise-mole
+
+mise plugin for [mole](https://github.com/tw93/Mole).
 
 ## License
 

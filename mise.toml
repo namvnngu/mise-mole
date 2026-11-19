@@ -1,7 +1,7 @@
 [tools]
-"aqua:JohnnyMorganz/StyLua" = "latest"
-"aqua:LuaLS/lua-language-server" = "latest"
-"vfox:mise-plugins/vfox-lua" = "5.5"
+"lua" = "5.5"
+"lua-language-server" = "latest"
+"stylua" = "latest"
 
 [tasks.fmt]
 description = "Format Lua scripts"
